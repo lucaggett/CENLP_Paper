@@ -8,8 +8,6 @@ This repository contains a Python script to analyze correlations between human e
 - [File Structure](#file-structure)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Results](#results)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
