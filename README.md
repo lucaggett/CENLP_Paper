@@ -33,7 +33,7 @@ The following folder structure is required for the script to run correctly:
 │   └── task_materials/
 │       └── relations_labels_task2.csv
 ├── requirements.txt
-└── zuco_bert_analysis.py
+└── evaluate.py
 ```
 ---
 
